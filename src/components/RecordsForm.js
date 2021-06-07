@@ -18,7 +18,7 @@ function RecordsForm({ handler }) {
       </FormControl>
 
       <Button colorScheme="green" type="submit" className="max-w-xs">
-        Add Record
+        Add Record 🎼
       </Button>
     </form>
   );
